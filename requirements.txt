@@ -1,0 +1,2 @@
+# No external dependencies required for this simple CLI bot.
+# Standard Python 3 is sufficient.
